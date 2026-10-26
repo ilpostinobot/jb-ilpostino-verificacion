@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "filename": "primera-prueba.html",
+    "url": "https://ilpostinobot.github.io/jb-ilpostino-verificacion/blog/primera-prueba.html",
+    "fecha": "2026-10-26",
+    "titulo": "Primera entrada de prueba",
+    "excerpt": "Primera entrada de prueba  Esta entrada comprueba que Il Postino conserva el blog y publica el texto seleccionado. Es contenido genérico para verificar el servicio. ",
+    "tiene_foto": false,
+    "text": "Primera entrada de prueba\n\nEsta entrada comprueba que Il Postino conserva el blog y publica el texto seleccionado. Es contenido genérico para verificar el servicio.\n"
+  }
+]
